@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "507437213913",
+    "firebase_url": "https://vietalk-bdc45-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "vietalk-bdc45",
+    "storage_bucket": "vietalk-bdc45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507437213913:android:ffac1d95c7785fe71ef6c8",
+        "android_client_info": {
+          "package_name": "com.royalsoft.vietalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507437213913-so3dtnk6uece61j7gtdahdp0jeje0v9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvhimoxSG9-wHQTjk4nfNfihCQeWzyc10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507437213913-so3dtnk6uece61j7gtdahdp0jeje0v9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

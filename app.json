@@ -5,6 +5,16 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "googleServicesFile": "./assets/google-services.json",
+      "package": "com.royalsoft.vietalk"
+    },
+    "ios": {
+      "googleServicesFile": "./assets/GoogleService-Info.plist",
+      "package": "com.royalsoft.vietalk"
+    },
+    "web": {},
+    "plugin": ["@react-native-firebase/app"]
   }
 }
